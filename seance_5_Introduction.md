@@ -1,7 +1,7 @@
 # 🌍 Introduction aux 5 langages : Contexte historique
 
-Avant d’apprendre la programmation dans différentes langues, il est important de comprendre **le contexte historique** dans lequel ces langages ont été créés.  
-Chaque langage répond à des besoins précis de son époque.
+Avant d’apprendre à mes étudiants la programmation dans différentes langues, il est important de les amener à comprendre **le contexte historique** dans lequel ces langages ont été créés.  
+Car chaque langage répond à des besoins précis de son époque.
 
 ---
 
