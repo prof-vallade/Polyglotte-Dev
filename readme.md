@@ -1,6 +1,6 @@
 # 🌍 Polyglotte-Dev : Cours multi-langages (Java, JS, Kotlin, Python, PHP)
 
-Ce dépôt contient les cours et exercices de programmation pour 5 langages, étudiés en parallèle :
+Ce dépôt contient les cours et exercices de programmation pour 5 langages, que je dispense en parallèle à 5 étudiant.e.s :
 
 - ☕ Java (Jean est inscrit à ce cours)
 - 🟨 JavaScript (Jacques est inscrit à ce cours)
@@ -8,7 +8,7 @@ Ce dépôt contient les cours et exercices de programmation pour 5 langages, ét
 - 🐍 Python (Pierrette est inscrite à ce cours)
 - 🐘 PHP (Philippe est inscrit à ce cours)
 
-Les cours sont données **par thèmes** (variables, fonctions, boucles, etc.)
+Les cours sont données **par thèmes** (variables, fonctions, boucles, etc.) : cette méthode me parait plus simple et plus efficace, elle offre une comparaison directe et immédiate propice à la culture générale.
 
 ## 📂 Organisation du dépôt
 
