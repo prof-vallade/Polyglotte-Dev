@@ -5,7 +5,7 @@ Chaque langage répond à des besoins précis de son époque.
 
 ---
 
-## 🐍 Python (Pierre) — 1991
+## 🐍 Python (Pierrette) — 1991
 - Créateur : **Guido van Rossum** (Pays-Bas).
 - Objectif : un langage **simple, lisible et proche du pseudo-code**.
 - Domaines d’usage : **sciences, IA, data science, web, automatisation**.
