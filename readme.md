@@ -2,11 +2,11 @@
 
 Ce dépôt contient les cours et exercices de programmation pour 5 langages, étudiés en parallèle :
 
-- ☕ Java (Jean)
-- 🟨 JavaScript (Jacques)
-- 🟪 Kotlin (Karl)
-- 🐍 Python (Pierre)
-- 🐘 PHP (Philippe)
+- ☕ Java (Jean est inscrit à ce cours)
+- 🟨 JavaScript (Jacques est inscrit à ce cours)
+- 🟪 Kotlin (Karl est inscrit à ce cours)
+- 🐍 Python (Pierrette est inscrite à ce cours)
+- 🐘 PHP (Philippe est inscrit à ce cours)
 
 Les cours sont données **par thèmes** (variables, fonctions, boucles, etc.)
 
