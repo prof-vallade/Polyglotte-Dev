@@ -84,6 +84,19 @@ Python 3.12.2
 - Site officiel : [https://www.python.org/downloads/](https://www.python.org/downloads/)  
 - Pendant l’installation sous Windows, **cocher la case "Add Python to PATH"**.  
 
+sinon :
+Si python --version ne marche pas et tu veux qu’il marche :
+Ouvre Variables d’environnement
+Panneau de configuration → Système → Paramètres système avancés → Variables d’environnement…
+Dans Path (compte utilisateur), ajoute :
+C:\Users\<TON_USER>\AppData\Local\Programs\Python\Python313\
+C:\Users\<TON_USER>\AppData\Local\Programs\Python\Python313\Scripts\
+OK, ferme/réouvre le terminal, puis :
+
+python --version
+where python
+
+Remplace Python313 si ton dossier s’appelle autrement.
 ---
 
 ## 5. PHP
