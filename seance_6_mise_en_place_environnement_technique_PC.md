@@ -103,6 +103,11 @@ PHP 8.3.4 (cli) (built: Mar 5 2024)
 - Sous Windows, il est conseillé d’installer **XAMPP** (qui inclut PHP, Apache, MariaDB) :  
   [https://www.apachefriends.org/download.html](https://www.apachefriends.org/download.html)  
 
+Si on a déjà Laragon installé sur la machine, PHP est déjà installé. Ce n'est pas la peinne de l'installer une deuxième fois.
+- Soit on fait les tets dans Laragon (c'est plus compliqué à notre stade), 
+- soit on fait les tets dans vscode (c'est plus pratique), à ce moment-là on utilise le php de Laragon en ajoutant dans le PATH le dossier correspondant :
+
+C:\laragon\bin\php\php-8.x.x-Win32-vs16-x64 (remplace 8.x.x par ta version exacte que tu peux voir dans C:\laragon\bin\php\).
 ---
 
 ## 🎯 Conclusion
