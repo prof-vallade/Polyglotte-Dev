@@ -51,9 +51,7 @@ v20.11.0
 - Installer en suivant les options par défaut.  
 
 ### Extention vscode recommandée : Code Runner (de Jun Han)
-Il permet d’exécuter directement le code (Ctrl+Alt+N) sans taper node.  
-ATTENTION : le terminal se bloque tant qu'on n’as pas arrêté Run code en ckiquan sur le bouton 🟥 Stop Code Run (en haut à droite de VS Code, près du bouton "Run Code"), OU en utilisant le raccourci clavier : Ctrl + Alt + M (Windows/Linux)
-
+Il est installé par défaut dans les dernière version vscode. C'est un bouton "play" qui permet exécuter directement le code sans passer par la phase de saisie de la commande d'exécution.  
 
 ---
 
